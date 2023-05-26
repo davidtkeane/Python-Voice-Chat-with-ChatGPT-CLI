@@ -1,0 +1,8 @@
+pyttsx3
+speech_recognition
+openai
+sounddevice
+soundfile
+SpeechRecognition
+alive_progress
+pyaduio
