@@ -14,7 +14,7 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 💡  pip install PyAudio & pip install SpeechRecognition for windows.     
 3. Make sure you have an OpenAI API key. If you don't have one, go to [https://beta.openai.com/signup/](https://beta.openai.com/signup/) to sign up for early access and get an API key.
 4. In the script, replace "YOUR_API_KEY" with your API key.
-5. Run the script using `python gpt_voice.py`.
+5. Run the script using `python gpt_voice_chat.py`.
 6. A text file called gpt_voice.txt will be created once you have started the voice recognition script, this will save the conversation with timestamps.
 
 ### Improvements
