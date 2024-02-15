@@ -11,10 +11,6 @@ import datetime
 from alive_progress import alive_bar
 import time
 
-with alive_bar(100) as bar:
-    for i in range(100):
-        time.sleep(0.1)
-        bar()
 
 # Sampling frequency
 fs = 44100
@@ -34,7 +30,22 @@ user_name = "My Lord"
 bot_name = "Jervis"
 
 # Define the OpenAI GPT-3 model
-model_engine = "text-davinci-003"
+model_engine = "gpt-3.5-turbo-instruct"
+
+# Welcome Banner
+
+print ("")
+print("Processing...............")
+print ("")
+sleep(2.02) 
+print("Welcome to the ChatGPT Voice Interface!")
+print("This is Version 2.0")
+print ("")
+print(colored("Created by David", 'green'))
+sleep(2.02) 
+for i in tqdm(range(100), ncols=80, bar_format='{l_bar}{bar}|'):
+    sleep(0.02)  # simulate a download
+
 
 # Define function to process user input
 def process_input(user_input):

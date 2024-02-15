@@ -1,4 +1,49 @@
 # converse-with-chat-gpt-using-your-voice
+
+<h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/davidtkeane/jervis-ChatGPT?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/davidtkeane/jervis-ChatGPT?style=flat-square)
+
+<b>Languages</b>
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/davidtkeane)
+
+<b>OS</b>
+
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/davidtkeane)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/davidtkeane)
+
+<p align="center">
+    <b>Welcome to ChatGPT on the command line uses with API!</b>
+    <br>
+    <br>
+    <i>
+        I'm Rangersmyth (internet name), and I'm currently learning Python and Bash coding.<br>
+    <br>
+    </i>
+    <br>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@rangersmyth?theme=gelbooru" />
+</p>
+
+<div align="center">
+<a href="https://github.com/davidtkeane" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/davidtkeane" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sami-hindi-b31435248/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
+# About
+
 This script uses the OpenAI GPT-3 model and speech recognition to generate a chat between the user and the bot using the microphone and computer to talk to each other. The conversation history is logged to a text file, and the bot's responses are spoken aloud using Pyttsx3.
 
 ## GPT-3 Voice Chat
