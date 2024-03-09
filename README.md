@@ -1,9 +1,9 @@
-# converse-with-chat-gpt-using-your-voice
+Welcome to ChatGPT on the command line used with API! Where 
 
 <h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to ChatGPT on the command line used with API!</b>
+    <b>This project, "Python-Voice-Chat-with-ChatGPT-CLI" allows you to converse with chatgpt (OpenAI) using your voice, utilizes the OpenAI GPT-3 model and speech recognition to facilitate a chat interaction between users and a bot through voice input. By leveraging the microphone and computer capabilities, users can engage in conversations with the bot, with the dialogue history being logged into a text file. The bot's responses are also audibly communicated using Pyttsx3.</b>
 </p> 
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
