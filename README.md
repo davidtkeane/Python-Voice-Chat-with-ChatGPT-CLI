@@ -21,12 +21,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49094051/227788148-a8ff8e06-86a4-41a6-aa53-8b7d6855360c.png"/>
   <br>
+    <p>
     <i>
         I'm Rangersmyth (internet name), and I'm currently learning Python and Bash coding.<br>
     <br>
     </i>
     <br>
-
+    </p>
+    
 <p align="center">
   <img src="https://count.getloli.com/get/@rangersmyth?theme=gelbooru" />
 </p>
@@ -55,7 +57,7 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 
 1. Clone or download this repository. This will work for all platforms.
 2. Install the required modules by running `pip install -r requirements.txt`.
-💡  Just remove the following module to install on either Windows or Linux.
+💡  Just use the following module to install on either Windows or Linux.
 💡  The module SpeechRecognition for Windows and speech_recognition is for Linux      
 💡  pip install PyAudio & pip install SpeechRecognition for Windows.     
 3. Make sure you have an OpenAI API key. If you don't have one, go to [https://beta.openai.com/signup/](https://beta.openai.com/signup/) to sign up for early access and get an API key.
@@ -63,19 +65,15 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 5. Run the script using `python gpt_voice_chat.py`.
 6. A text file called gpt_voice.txt will be created once you have started the voice recognition script, this will save the conversation with timestamps.
 
-### Improvements
 
-- Add error handling for cases where the mic or sound devices are not available.
-- Implement a GUI to make the chat more user-friendly.
-- Allow the user to choose which voice the bot should use.
-- Improve the accuracy of speech recognition by using a custom language model.
-- Add support for multiple languages. 
 
-### Requirements
+## 💻 Modules Requirements
 
-## 🥷Prerequisites:
+## 🥷  Prerequisites:
 
-### 🏀 Signup to OpenAI:
+## 🏀 Signup to OpenAI:
+
+Make sure you have an OpenAI API key. If you don't have one, go to [https://beta.openai.com/signup/](https://beta.openai.com/signup/) to sign up for early access and get an API key.
 
 ## 🍔 Pip Modules to Install
 
@@ -93,3 +91,10 @@ alive_progress
 PyAduio
 ```
 
+### Improvements
+
+- Add error handling for cases where the mic or sound devices are not available.
+- Implement a GUI to make the chat more user-friendly.
+- Allow the user to choose which voice the bot should use.
+- Improve the accuracy of speech recognition by using a custom language model.
+- Add support for multiple languages. 
