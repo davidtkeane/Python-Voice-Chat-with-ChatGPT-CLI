@@ -67,9 +67,7 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 5. Run the script using `python gpt_voice_chat.py`.
 6. A text file called gpt_voice.txt will be created once you have started the voice recognition script, this will save the conversation with timestamps.
 
-
-
-## 💻 Modules Requirements
+## 💻 Modules Requirements:
 
 ## 🥷  Prerequisites:
 
@@ -77,11 +75,10 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 
 Make sure you have an OpenAI API key. If you don't have one, go to [https://beta.openai.com/signup/](https://beta.openai.com/signup/) to sign up for early access and get an API key.
 
-## 🍔 Pip Modules to Install
-
 - The script requires the following modules: If any problem is encountered install manually $ pip install or pip3 install modulename.
 - speech_recognition is a Linux module and SpeechRecognition is for Windows.
 
+## 🍔 Pip Modules to Install
 ```
 pyttsx3
 speech_recognition
