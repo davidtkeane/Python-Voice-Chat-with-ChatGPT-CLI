@@ -90,10 +90,20 @@ alive_progress
 PyAduio
 ```
 
-### Improvements
+## 🛠️ Improvements
 
 - Add error handling for cases where the mic or sound devices are not available.
 - Implement a GUI to make the chat more user-friendly.
 - Allow the user to choose which voice the bot should use.
 - Improve the accuracy of speech recognition by using a custom language model.
-- Add support for multiple languages. 
+- Add support for multiple languages.
+- 
+## 🛠️ Functions
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📜 License
+
+This project is licensed under the MIT License.
