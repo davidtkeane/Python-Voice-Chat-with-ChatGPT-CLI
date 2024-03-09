@@ -1,4 +1,4 @@
-<p align="center"><b><font size="20"># Python Command Line Voice Chat with OpenAI ChatGPT</font></b></p>
+<p align="center"><b><font size="20">Python Command Line Voice Chat with OpenAI ChatGPT</font></b></p>
 
 ChatGPT is a Python script that uses the OpenAI API that allows you to converse with chatgpt (OpenAI) using your voice This script can be used to create chatbots or conversational agents for a variety of purposes.
 
