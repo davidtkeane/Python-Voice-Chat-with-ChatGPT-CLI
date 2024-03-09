@@ -18,8 +18,9 @@
 
 <p align="center">
     <b>Welcome to ChatGPT on the command line used with API!</b>
-    <br>
-    <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49094051/227788148-a8ff8e06-86a4-41a6-aa53-8b7d6855360c.png"/>
+  <br>
     <i>
         I'm Rangersmyth (internet name), and I'm currently learning Python and Bash coding.<br>
     <br>
