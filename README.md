@@ -42,15 +42,15 @@
 </a>
 </div>
 
-# About
+# 🧐 About:
 
 This script uses the OpenAI GPT-3 model and speech recognition to generate a chat between the user and the bot using the microphone and computer to talk to each other. The conversation history is logged to a text file, and the bot's responses are spoken aloud using Pyttsx3.
 
-## GPT-3 Voice Chat
+## 🍔  GPT-3 Voice Chat
 
 This script uses the OpenAI GPT-3 model and speech recognition to generate a chat between the user and the bot using the microphone and computer to talk to each other. The conversation history is logged to a text file, and the bot's responses are spoken aloud using Pyttsx3.
 
-### Installation and Usage
+### 🆘 Installation and Usage
 
 1. Clone or download this repository. This will work for all platforms.
 2. Install the required modules by running `pip install -r requirements.txt`.
@@ -71,6 +71,12 @@ This script uses the OpenAI GPT-3 model and speech recognition to generate a cha
 - Add support for multiple languages. 
 
 ### Requirements
+
+## 🥷Prerequisites:
+
+### 🏀 Signup to OpenAI:
+
+## 🍔 Pip Modules to Install
 
 - The script requires the following modules: If any problem is encountered install manually $ pip install or pip3 install modulename.
 - speech_recognition is a Linux module and SpeechRecognition is for Windows.
